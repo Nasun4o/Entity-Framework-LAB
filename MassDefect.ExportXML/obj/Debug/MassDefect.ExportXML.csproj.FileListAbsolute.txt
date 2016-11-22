@@ -1,0 +1,16 @@
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\MassDefect.ExportXML.exe.config
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\MassDefect.ExportXML.exe
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\MassDefect.ExportXML.pdb
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\EntityFramework.dll
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\MassDefect.Data.dll
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\MassDefect.Models.dll
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\MassDefect.Data.pdb
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\MassDefect.Models.pdb
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\EntityFramework.xml
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\obj\Debug\MassDefect.ExportXML.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\obj\Debug\MassDefect.ExportXML.exe
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.ExportXML\obj\Debug\MassDefect.ExportXML.pdb

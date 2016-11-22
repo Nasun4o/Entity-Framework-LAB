@@ -1,0 +1,17 @@
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.AppXML.exe.config
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.AppXML.exe
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.AppXML.pdb
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\EntityFramework.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.Data.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.Models.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.Data.pdb
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.Models.pdb
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\EntityFramework.xml
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\obj\Debug\MassDefect.AppXML.csprojResolveAssemblyReference.cache
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\obj\Debug\MassDefect.AppXML.exe
+C:\Users\operator\Desktop\MidtermExam\MassDefect.AppXML\obj\Debug\MassDefect.AppXML.pdb
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.AppXML\bin\Debug\MassDefect.AppXML.exe.config
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.AppXML\obj\Debug\MassDefect.AppXML.exe
+C:\Users\PC-PC\Desktop\MidtermExam\MassDefect.AppXML\obj\Debug\MassDefect.AppXML.pdb

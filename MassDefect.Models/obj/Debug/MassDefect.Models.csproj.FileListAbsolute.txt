@@ -1,0 +1,12 @@
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\MassDefect.Models.dll.config
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\MassDefect.Models.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\MassDefect.Models.pdb
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\EntityFramework.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\EntityFramework.xml
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.csprojResolveAssemblyReference.cache
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.dll
+C:\Users\operator\Desktop\MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.pdb
